@@ -1,0 +1,6 @@
+PyYAML
+tqdm
+
+--find-links https://download.pytorch.org/whl/torch_stable.html
+torch==2.3.1+cu118
+torchvision==0.18.1+cu118
